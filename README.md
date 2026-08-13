@@ -14,7 +14,7 @@
 
 ##  About Me
 
-- cloud native software engineer with a focus on **distributed systems**
+- full stack cloud native software engineer with a focus on **distributed systems**
 - Polyglot programmer - I work with multiple languages and technologies
 
 
